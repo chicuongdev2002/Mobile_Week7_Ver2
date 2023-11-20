@@ -5,6 +5,7 @@ import {View,Image} from 'react-native';
 import Screen1 from './src/component/API_Screen_01';
 import Screen2 from './src/component/API_Screen_02';
 import Screen3 from './src/component/API_Screen_03';
+import Screen4 from './src/component/API_Screen_04';
 <div id="root"></div>
 const Stack = createNativeStackNavigator();
 export default function App() {
@@ -28,6 +29,12 @@ export default function App() {
           <Stack.Screen
           name="Screen3"
           component={Screen3}
+          options={{title:'Screen3', headerShown: false
+        }}
+        />
+           <Stack.Screen
+          name="Screen4"
+          component={Screen4}
           options={{title:'Screen3', headerShown: false
         }}
         />
