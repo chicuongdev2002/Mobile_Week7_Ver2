@@ -7,6 +7,7 @@
 ![image](https://github.com/chicuongdev2002/Mobile_Week7_Ver2/assets/124854803/8c2028de-71c9-4435-a096-a4edf0330825)
 ![image](https://github.com/chicuongdev2002/Mobile_Week7_Ver2/assets/124854803/6e77b33b-7e2b-4fe9-99e1-d78ac3159652)
 ## Screen 4
-![Uploading image.png…]()
+![image](https://github.com/chicuongdev2002/Mobile_Week7_Ver2/assets/124854803/f86c5420-8eac-4135-b278-b6b2349035fa)
+
 
 
